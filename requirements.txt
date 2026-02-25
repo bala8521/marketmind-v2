@@ -1,0 +1,3 @@
+dotenz
+streamlit
+requests
